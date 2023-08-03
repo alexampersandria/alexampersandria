@@ -1,8 +1,8 @@
-<h3 align="center">Hi! I'm Liara 🌈</h3>
+<h3 align="center">LIARA</h3>
 
 <p align="center">
-  she / they —
-  <a href="https://liara.io">liara.io</a> —
-  <a href="https://liara.io/bruch">brüch (music)</a> —
-  <a href="https://liara.io/bio">more links</a>
+  SHE / THEY —
+  <a href="https://liara.io">LIARA.IO</a> —
+  <a href="https://liara.io/bruch">BRÜCH ( MUSIC )</a> —
+  <a href="https://liara.io/bio">ETC.</a>
 </p>
